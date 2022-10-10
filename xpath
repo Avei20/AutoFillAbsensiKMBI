@@ -1,0 +1,15 @@
+Link Absensi : https://forms.gle/NXixKVX3uYfwQ4wm6
+NIP : /html/body/div/div[2]/form/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input
+Nama Lengkap : /html/body/div/div[2]/form/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input
+Universitas : /html/body/div/div[2]/form/div[2]/div/div[2]/div[4]/div/div/div[2]/div/div[2]/div[8]/span
+Satker : /html/body/div/div[2]/form/div[2]/div/div[2]/div[5]/div/div/div[2]/div/div[2]/div[3]/span
+Month : /html/body/div[1]/div[2]/form/div[2]/div/div[2]/div[6]/div/div/div[2]/div/div/div[1]/div/div[2]/div[1]/div/div[1]/input
+Day : /html/body/div[1]/div[2]/form/div[2]/div/div[2]/div[6]/div/div/div[2]/div/div/div[3]/div/div[2]/div[1]/div/div[1]/input
+Year : /html/body/div[1]/div[2]/form/div[2]/div/div[2]/div[6]/div/div/div[2]/div/div/div[5]/div/div[2]/div[1]/div/div[1]/input
+Angkatan : /html/body/div[1]/div[2]/form/div[2]/div/div[2]/div[7]/div/div/div[2]/div/div[2]/div[3]/span
+Next Button Page 1 : /html/body/div[1]/div[2]/form/div[2]/div/div[3]/div[1]/div[1]/div/span
+WFO Radio : /html/body/div/div[2]/form/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/span/div/div[1]/label/div/div[1]/div/div[3]/div
+WFH Radio : /html/body/div/div[2]/form/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/span/div/div[2]/label/div/div[1]/div/div[3]/div
+Next Page 2 : /html/body/div/div[2]/form/div[2]/div/div[3]/div[1]/div[1]/div[2]/span/span
+Nama Mentor : /html/body/div/div[2]/form/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input
+Submit Button : /html/body/div/div[2]/form/div[2]/div/div[3]/div[1]/div[1]/div[2]/span/span
