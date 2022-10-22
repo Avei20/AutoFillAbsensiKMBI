@@ -86,4 +86,4 @@ buddy_input.click()
 buddy_input.send_keys(buddy)
 
 submit_btn = driver.find_element(By.XPATH, '/html/body/div/div[2]/form/div[2]/div/div[3]/div[1]/div[1]/div[2]/span/span')
-# submit_btn.click()
+submit_btn.click()
